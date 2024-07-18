@@ -1,0 +1,409 @@
+[
+  {
+    "meta": {
+      "location": "in DLF Garden City Floors, Sector 92 Gurgaon, Gurgaon, Haryana",
+      "builtUpArea": "(290.97 sq.m.)",
+      "price": "5.92 Crore",
+      "address": "(290.97 sq.m.)",
+      "facing": "North-East"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/19170/6/383406832M-1704529600844.jpg",
+      "https://img.youtube.com/vi/8uFPDwbB_Mc/hqdefault.jpg",
+      "https://static.99acres.com/universalapp/img/muteIcon.png"
+    ],
+    "ratings": {
+      "safety": "3.5 out of 5",
+      "connectivity": "3.6 out of 5",
+      "environment": "3.8 out of 5",
+      "lifestyle": "3.6 out of 5"
+    },
+    "features": [
+      "Feng Shui / Vaastu Compliant",
+      "Maintenance Staff",
+      "Water Storage",
+      "Rain Water Harvesting"
+    ]
+  },
+  {
+    "meta": {},
+    "images": [],
+    "ratings": {},
+    "features": []
+  },
+  {
+    "meta": {},
+    "images": [],
+    "ratings": {},
+    "features": []
+  },
+  {
+    "meta": {},
+    "images": [],
+    "ratings": {},
+    "features": []
+  },
+  {
+    "meta": {},
+    "images": [],
+    "ratings": {},
+    "features": []
+  },
+  {
+    "meta": {},
+    "images": [],
+    "ratings": {},
+    "features": []
+  },
+  {
+    "meta": {
+      "location": "in Ansals Palam Vihar, Palam Vihar, Gurgaon, Haryana",
+      "builtUpArea": "(157.94 sq.m.)",
+      "areaUnit": "3 Bathrooms",
+      "bedrooms": "3 Bedrooms",
+      "bathrooms": "3 Bathrooms",
+      "balconies": "No Balcony",
+      "price": "1.98 Crore",
+      "address": "(157.94 sq.m.)",
+      "floorNumber": "2nd   of 4 Floors",
+      "totalFloors": "2nd   of 4 Floors",
+      "possessionDate": "1 to 5 Year Old"
+    },
+    "images": [],
+    "ratings": {
+      "safety": "4.1 out of 5",
+      "connectivity": "4.2 out of 5",
+      "environment": "4.2 out of 5",
+      "lifestyle": "4.3 out of 5"
+    },
+    "features": []
+  },
+  {
+    "meta": {},
+    "images": [],
+    "ratings": {},
+    "features": []
+  },
+  {
+    "meta": {
+      "location": "in Tulip Ace, Sector 89 Gurgaon, Gurgaon, Haryana",
+      "builtUpArea": "(204.39 sq.m.)",
+      "areaUnit": "4 Bathrooms",
+      "bedrooms": "3 Bedrooms",
+      "bathrooms": "4 Bathrooms",
+      "balconies": "3+ Balconies",
+      "additionalRooms": "Pooja Room,Servant Room",
+      "price": "2 Crore",
+      "address": "(204.39 sq.m.)",
+      "floorNumber": "8th   of 12 Floors",
+      "totalFloors": "8th   of 12 Floors",
+      "facing": "West",
+      "possessionDate": "5 to 10 Year Old"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/24155/5/483105800M-1711786336628.jpg",
+      "https://imagecdn.99acres.com/media1/24155/5/483105800M-1711786336628.jpg",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp"
+    ],
+    "ratings": {
+      "safety": "3.7 out of 5",
+      "connectivity": "3.6 out of 5",
+      "environment": "3.7 out of 5",
+      "lifestyle": "3.7 out of 5"
+    },
+    "features": [
+      "Feng Shui / Vaastu Compliant",
+      "Lift(s)",
+      "Swimming Pool",
+      "Park",
+      "Piped-gas",
+      "Internet/wi-fi connectivity",
+      "Fitness Centre / GYM",
+      "Club house / Community Center"
+    ]
+  },
+  {
+    "meta": {},
+    "images": [],
+    "ratings": {},
+    "features": []
+  },
+  {
+    "meta": {
+      "location": "in Signature Global City 92, Sector 92 Gurgaon, Gurgaon, Haryana",
+      "builtUpArea": "(110.55 sq.m.)",
+      "areaUnit": "2 Bathrooms",
+      "bedrooms": "2 Bedrooms",
+      "bathrooms": "2 Bathrooms",
+      "balconies": "2 Balconies",
+      "additionalRooms": "Others",
+      "price": "1.18 Crore",
+      "address": "(110.55 sq.m.)",
+      "floorNumber": "1st   of 4 Floors",
+      "totalFloors": "1st   of 4 Floors",
+      "facing": "South-East",
+      "overlooking": "Park/Garden,Main Road,Club,Pool,Others",
+      "possessionDate": "Aug 2026"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/23664/18/473298574M-1707828037926.jpg",
+      "https://imagecdn.99acres.com/media1/23664/18/473298578M-1707828128138.jpg",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp"
+    ],
+    "ratings": {
+      "safety": "3.5 out of 5",
+      "connectivity": "3.6 out of 5",
+      "environment": "3.8 out of 5",
+      "lifestyle": "3.6 out of 5"
+    },
+    "furnishingDetails": "Semifurnished\nFurnishing Details\n4 Fan\n1 Exhaust Fan\n2 Geyser\n8 Light\n4 AC\n1 Modular Kitchen\n1 Chimney\nNo Bed\nNo Curtains\nNo Dining Table\nNo Microwave\nNo Fridge\nNo Sofa\nNo Stove\nNo TV\nNo Wardrobe\nNo Washing Machine\nNo Water Purifier",
+    "features": [
+      "4 Fan",
+      "1 Exhaust Fan",
+      "2 Geyser",
+      "8 Light",
+      "4 AC",
+      "1 Modular Kitchen",
+      "1 Chimney",
+      "No Bed",
+      "No Curtains",
+      "No Dining Table",
+      "No Microwave",
+      "No Fridge",
+      "No Sofa",
+      "No Stove",
+      "No TV",
+      "No Wardrobe",
+      "No Washing Machine",
+      "No Water Purifier",
+      "Feng Shui / Vaastu Compliant",
+      "Water purifier",
+      "Lift(s)",
+      "Maintenance Staff",
+      "Water Storage",
+      "Park",
+      "Piped-gas",
+      "Visitor Parking",
+      "Waste Disposal",
+      "Rain Water Harvesting"
+    ]
+  },
+  {
+    "meta": {
+      "location": "in Signature Global City 92, Sector 92 Gurgaon, Gurgaon, Haryana",
+      "builtUpArea": "(89.09 sq.m.)",
+      "areaUnit": "2 Bathrooms",
+      "bedrooms": "2 Bedrooms",
+      "bathrooms": "2 Bathrooms",
+      "balconies": "2 Balconies",
+      "price": "1.05 Crore",
+      "address": "(89.09 sq.m.)",
+      "floorNumber": "3rd   of 4 Floors",
+      "totalFloors": "3rd   of 4 Floors",
+      "facing": "East",
+      "possessionDate": "0 to 1 Year Old"
+    },
+    "images": [
+      "https://img.youtube.com/vi/K6fGpjfav-o/hqdefault.jpg",
+      "https://img.youtube.com/vi/h5h0EtR4-NU/hqdefault.jpg",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp"
+    ],
+    "ratings": {
+      "safety": "3.5 out of 5",
+      "connectivity": "3.6 out of 5",
+      "environment": "3.8 out of 5",
+      "lifestyle": "3.6 out of 5"
+    },
+    "furnishingDetails": "Semifurnished\nFurnishing Details\n1 Exhaust Fan\n3 Light\n3 AC\n1 Modular Kitchen\n1 Chimney\nNo Bed\nNo Curtains\nNo Dining Table\nNo Fan\nNo Geyser\nNo Microwave\nNo Fridge\nNo Sofa\nNo Stove\nNo TV\nNo Wardrobe\nNo Washing Machine\nNo Water Purifier",
+    "features": [
+      "1 Exhaust Fan",
+      "3 Light",
+      "3 AC",
+      "1 Modular Kitchen",
+      "1 Chimney",
+      "No Bed",
+      "No Curtains",
+      "No Dining Table",
+      "No Fan",
+      "No Geyser",
+      "No Microwave",
+      "No Fridge",
+      "No Sofa",
+      "No Stove",
+      "No TV",
+      "No Wardrobe",
+      "No Washing Machine",
+      "No Water Purifier",
+      "Park",
+      "Visitor Parking"
+    ]
+  },
+  {
+    "meta": {
+      "location": "in Signature Global City 92, Sector 92 Gurgaon, Gurgaon, Haryana",
+      "builtUpArea": "(92.9 sq.m.)",
+      "areaUnit": "2 Bathrooms",
+      "bedrooms": "2 Bedrooms",
+      "bathrooms": "2 Bathrooms",
+      "balconies": "2 Balconies",
+      "additionalRooms": "Pooja Room",
+      "price": "1.5 Crore",
+      "address": "(92.9 sq.m.)",
+      "floorNumber": "1st   of 4 Floors",
+      "totalFloors": "1st   of 4 Floors",
+      "possessionDate": "1 to 5 Year Old"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/22686/14/453734588M-1719229436592.jpg",
+      "https://img.youtube.com/vi/lxYFzeJg0zc/hqdefault.jpg",
+      "https://static.99acres.com/universalapp/img/muteIcon.png"
+    ],
+    "ratings": {
+      "safety": "3.5 out of 5",
+      "connectivity": "3.6 out of 5",
+      "environment": "3.8 out of 5",
+      "lifestyle": "3.6 out of 5"
+    },
+    "features": [
+      "Feng Shui / Vaastu Compliant",
+      "Security / Fire Alarm",
+      "Intercom Facility",
+      "Lift(s)",
+      "Maintenance Staff",
+      "Swimming Pool",
+      "Water Storage",
+      "Park",
+      "Visitor Parking",
+      "Fitness Centre / GYM",
+      "Club house / Community Center"
+    ]
+  },
+  {
+    "meta": {},
+    "images": [],
+    "ratings": {},
+    "features": []
+  },
+  {
+    "meta": {
+      "location": "in Smart World Gems, Sector 89 Gurgaon, Gurgaon, Haryana",
+      "builtUpArea": "(102.47 sq.m.)",
+      "areaUnit": "2 Bathrooms",
+      "bedrooms": "2 Bedrooms",
+      "bathrooms": "2 Bathrooms",
+      "balconies": "2 Balconies",
+      "additionalRooms": "Study Room",
+      "price": "1.16 Crore",
+      "address": "(102.47 sq.m.)",
+      "floorNumber": "2nd   of 4 Floors",
+      "totalFloors": "2nd   of 4 Floors",
+      "possessionDate": "Within 3 months"
+    },
+    "images": [
+      "https://img.youtube.com/vi/LrbDfY9BcT0/hqdefault.jpg",
+      "https://img.youtube.com/vi/VRx0SMLTJVI/hqdefault.jpg",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp"
+    ],
+    "ratings": {
+      "safety": "3.7 out of 5",
+      "connectivity": "3.6 out of 5",
+      "environment": "3.7 out of 5",
+      "lifestyle": "3.7 out of 5"
+    },
+    "furnishingDetails": "Semifurnished\nFurnishing Details\n1 Modular Kitchen\nNo AC\nNo Bed\nNo Chimney\nNo Curtains\nNo Dining Table\nNo Exhaust Fan\nNo Fan\nNo Geyser\nNo Light\nNo Microwave\nNo Fridge\nNo Sofa\nNo Stove\nNo TV\nNo Wardrobe\nNo Washing Machine\nNo Water Purifier",
+    "features": [
+      "1 Modular Kitchen",
+      "No AC",
+      "No Bed",
+      "No Chimney",
+      "No Curtains",
+      "No Dining Table",
+      "No Exhaust Fan",
+      "No Fan",
+      "No Geyser",
+      "No Light",
+      "No Microwave",
+      "No Fridge",
+      "No Sofa",
+      "No Stove",
+      "No TV",
+      "No Wardrobe",
+      "No Washing Machine",
+      "No Water Purifier",
+      "Security / Fire Alarm",
+      "Feng Shui / Vaastu Compliant",
+      "Intercom Facility",
+      "Lift(s)",
+      "Maintenance Staff",
+      "Water Storage",
+      "Piped-gas",
+      "Visitor Parking",
+      "Swimming Pool",
+      "Park",
+      "Internet/wi-fi connectivity",
+      "Fitness Centre / GYM",
+      "Club house / Community Center"
+    ]
+  }
+]

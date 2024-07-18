@@ -1,0 +1,47 @@
+[
+  {
+    "meta": {},
+    "images": [],
+    "ratings": {},
+    "features": []
+  },
+  {
+    "meta": {
+      "location": "in DLF The Aralias, Sector 42 Gurgaon, Gurgaon, Haryana",
+      "builtUpArea": "(548.13 sq.m.)",
+      "areaUnit": "4 Bathrooms",
+      "bedrooms": "5 Bedrooms",
+      "bathrooms": "4 Bathrooms",
+      "balconies": "3+ Balconies",
+      "additionalRooms": "Others,Servant Room",
+      "price": "28 Crore",
+      "address": "(548.13 sq.m.)",
+      "floorNumber": "14th   of 17 Floors",
+      "totalFloors": "14th   of 17 Floors",
+      "facing": "North-East",
+      "overlooking": "Park/Garden",
+      "possessionDate": "10+ Year Old"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/25028/7/500567777M-1719335882242.jpg",
+      "https://imagecdn.99acres.com/media1/25028/7/500567781M-1719335885470.jpg",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp"
+    ],
+    "ratings": {},
+    "features": [
+      "Feng Shui / Vaastu Compliant",
+      "Security / Fire Alarm",
+      "Intercom Facility",
+      "Lift(s)",
+      "Maintenance Staff",
+      "Water Storage",
+      "Park",
+      "Visitor Parking"
+    ]
+  }
+]

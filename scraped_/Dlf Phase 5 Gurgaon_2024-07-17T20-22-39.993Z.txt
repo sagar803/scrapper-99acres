@@ -1,0 +1,26 @@
+[
+  {
+    "meta": {},
+    "images": [],
+    "ratings": {},
+    "features": []
+  },
+  {
+    "meta": {},
+    "images": [],
+    "ratings": {},
+    "features": []
+  },
+  {
+    "meta": {},
+    "images": [],
+    "ratings": {},
+    "features": []
+  },
+  {
+    "meta": {},
+    "images": [],
+    "ratings": {},
+    "features": []
+  }
+]
