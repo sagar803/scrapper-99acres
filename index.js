@@ -70,7 +70,7 @@ const scrapePropertyDetails = async (propertyLink) => {
       defaultViewport: { width: 1920, height: 1080 },
     });
     const page = await browser.newPage();
-    await page.setDefaultNavigationTimeout(60000);
+    // await page.setDefaultNavigationTimeout(60000);
     const userAgent = new UserAgent({ deviceCategory: "desktop" });
     await page.setUserAgent(userAgent.toString());
 
@@ -245,7 +245,7 @@ const start = async (area) => {
 
   for (const link of links) {
     const data = await scrapePropertyDetails(link);
-    console.log(data);
+    // console.log(data);
     const currentData = await fs.promises.readFile(filepath, "utf8");
     const jsonData = JSON.parse(currentData);
     jsonData.push(data);

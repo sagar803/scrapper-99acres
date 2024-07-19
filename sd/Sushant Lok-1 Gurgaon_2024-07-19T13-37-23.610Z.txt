@@ -1,0 +1,462 @@
+[
+  {
+    "meta": {
+      "location": "in Brand New Builder Floor, Block C, Sushant Lok Phase 1, Gurgaon, Haryana",
+      "builtUpArea": "(250.84 sq.m.)",
+      "areaUnit": "5 Bathrooms",
+      "bedrooms": "4 Bedrooms",
+      "bathrooms": "5 Bathrooms",
+      "balconies": "2 Balconies",
+      "additionalRooms": "Servant Room",
+      "price": "3.49 Crore",
+      "address": "(250.84 sq.m.)",
+      "floorNumber": "3rd   of 4 Floors",
+      "totalFloors": "3rd   of 4 Floors",
+      "facing": "South",
+      "overlooking": "Main Road",
+      "possessionDate": "0 to 1 Year Old"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/25147/0/502940619M-1720272121298.jpg",
+      "https://img.youtube.com/vi/QTDlA_GwHxw/hqdefault.jpg",
+      "https://static.99acres.com/universalapp/img/muteIcon.png"
+    ],
+    "ratings": {},
+    "furnishingDetails": "Semifurnished\nFurnishing Details\n5 Wardrobe\n5 Fan\n1 Exhaust Fan\n4 Geyser\n1 Stove\n1 Microwave\n10 Light\n1 Modular Kitchen\n5 AC\n1 Chimney\nNo Bed\nNo Curtains\nNo Dining Table\nNo Fridge\nNo Sofa\nNo TV\nNo Washing Machine\nNo Water Purifier",
+    "features": [
+      "5 Wardrobe",
+      "5 Fan",
+      "1 Exhaust Fan",
+      "4 Geyser",
+      "1 Stove",
+      "1 Microwave",
+      "10 Light",
+      "1 Modular Kitchen",
+      "5 AC",
+      "1 Chimney",
+      "No Bed",
+      "No Curtains",
+      "No Dining Table",
+      "No Fridge",
+      "No Sofa",
+      "No TV",
+      "No Washing Machine",
+      "No Water Purifier",
+      "Feng Shui / Vaastu Compliant",
+      "Intercom Facility",
+      "Lift(s)",
+      "High Ceiling Height",
+      "False Ceiling Lighting",
+      "Water Storage",
+      "Separate entry for servant room",
+      "No open drainage around",
+      "Visitor Parking",
+      "Park",
+      "Natural Light",
+      "Airy Rooms",
+      "Spacious Interiors",
+      "Low Density Society",
+      "Waste Disposal",
+      "Club house / Community Center"
+    ]
+  },
+  {
+    "meta": {
+      "location": "in Sushant Lok Phase 1, Gurgaon, Haryana",
+      "builtUpArea": "(278.71 sq.m.)",
+      "areaUnit": "5 Bathrooms",
+      "bedrooms": "4 Bedrooms",
+      "bathrooms": "5 Bathrooms",
+      "balconies": "2 Balconies",
+      "additionalRooms": "Pooja Room,Servant Room",
+      "price": "3.25 Crore",
+      "address": "(278.71 sq.m.)",
+      "floorNumber": "2nd   of 4 Floors",
+      "totalFloors": "2nd   of 4 Floors",
+      "facing": "West",
+      "overlooking": "Park/Garden,Club",
+      "possessionDate": "1 to 5 Year Old"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/24768/7/495367004M-1717087141289.jpg",
+      "https://img.youtube.com/vi/DNP7eL_2uYA/hqdefault.jpg",
+      "https://static.99acres.com/universalapp/img/muteIcon.png"
+    ],
+    "ratings": {
+      "safety": "4.3 out of 5",
+      "connectivity": "4.4 out of 5",
+      "environment": "4.3 out of 5",
+      "lifestyle": "4.4 out of 5"
+    },
+    "furnishingDetails": "Semifurnished\nFurnishing Details\n5 Wardrobe\n9 Fan\n1 Exhaust Fan\n5 Geyser\n1 Stove\n1 Microwave\n41 Light\n8 AC\n1 Modular Kitchen\n1 Chimney\nNo Bed\nNo Curtains\nNo Dining Table\nNo Fridge\nNo Sofa\nNo TV\nNo Washing Machine\nNo Water Purifier",
+    "features": [
+      "5 Wardrobe",
+      "9 Fan",
+      "1 Exhaust Fan",
+      "5 Geyser",
+      "1 Stove",
+      "1 Microwave",
+      "41 Light",
+      "8 AC",
+      "1 Modular Kitchen",
+      "1 Chimney",
+      "No Bed",
+      "No Curtains",
+      "No Dining Table",
+      "No Fridge",
+      "No Sofa",
+      "No TV",
+      "No Washing Machine",
+      "No Water Purifier",
+      "Feng Shui / Vaastu Compliant",
+      "Water purifier",
+      "Maintenance Staff",
+      "Water Storage",
+      "Park",
+      "Visitor Parking",
+      "Waste Disposal",
+      "Rain Water Harvesting"
+    ]
+  },
+  {
+    "meta": {
+      "location": "in Ansal Sushant Lok Plots, Sushant Lok Phase 1, Gurgaon, Haryana",
+      "builtUpArea": "(419.74 sq.m.)",
+      "price": "11 Crore",
+      "address": "(419.74 sq.m.)",
+      "facing": "West",
+      "overlooking": "Park/Garden,Club,Main Road,Others"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/22731/4/454624076M-1718171973259.jpg",
+      "https://img.youtube.com/vi/h0LCYVHBo7E/hqdefault.jpg",
+      "https://static.99acres.com/universalapp/img/muteIcon.png"
+    ],
+    "ratings": {
+      "safety": "4.3 out of 5",
+      "connectivity": "4.4 out of 5",
+      "environment": "4.3 out of 5",
+      "lifestyle": "4.4 out of 5"
+    },
+    "features": [
+      "Feng Shui / Vaastu Compliant",
+      "Maintenance Staff",
+      "Water Storage"
+    ]
+  },
+  {
+    "meta": {
+      "location": "in Ansal Sushant Lok Plots, Sushant Lok Phase 1, Gurgaon, Haryana",
+      "builtUpArea": "(419.74 sq.m.)",
+      "price": "12.5 Crore",
+      "address": "(419.74 sq.m.)",
+      "facing": "East"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/18760/8/375208688M-1718173800556.jpg",
+      "https://img.youtube.com/vi/5DqUBHr9bPo/hqdefault.jpg",
+      "https://static.99acres.com/universalapp/img/muteIcon.png"
+    ],
+    "ratings": {
+      "safety": "4.3 out of 5",
+      "connectivity": "4.4 out of 5",
+      "environment": "4.3 out of 5",
+      "lifestyle": "4.4 out of 5"
+    },
+    "features": [
+      "Feng Shui / Vaastu Compliant",
+      "Maintenance Staff",
+      "Rain Water Harvesting"
+    ]
+  },
+  {
+    "meta": {
+      "location": "in Ansal Sushant Lok Plots, Sushant Lok Phase 1, Gurgaon, Haryana",
+      "builtUpArea": "(27.87 sq.m.)",
+      "price": "7.75 Crore",
+      "address": "(27.87 sq.m.)",
+      "facing": "South-East",
+      "overlooking": "Park/Garden,Club,Main Road,Others"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/19707/16/394156510M-1718173873896.jpg",
+      "https://img.youtube.com/vi/-U1hjgvXYVY/hqdefault.jpg",
+      "https://static.99acres.com/universalapp/img/muteIcon.png"
+    ],
+    "ratings": {
+      "safety": "4.3 out of 5",
+      "connectivity": "4.4 out of 5",
+      "environment": "4.3 out of 5",
+      "lifestyle": "4.4 out of 5"
+    },
+    "features": [
+      "Feng Shui / Vaastu Compliant",
+      "Maintenance Staff",
+      "Water Storage"
+    ]
+  },
+  {
+    "meta": {
+      "location": "in Sushant Lok 1 Builder Floors, Sushant Lok Phase 1, Gurgaon, Haryana",
+      "builtUpArea": "(349.5 sq.m.)",
+      "price": "10 Crore",
+      "address": "(349.5 sq.m.)",
+      "facing": "West",
+      "overlooking": "Pool,Park/Garden,Club,Main Road,Others",
+      "possessionDate": "Immediate"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/18617/7/372347078M-1718173786176.jpg",
+      "https://img.youtube.com/vi/t33sgGR3Cr0/hqdefault.jpg",
+      "https://static.99acres.com/universalapp/img/muteIcon.png"
+    ],
+    "ratings": {
+      "safety": "4.3 out of 5",
+      "connectivity": "4.4 out of 5",
+      "environment": "4.3 out of 5",
+      "lifestyle": "4.4 out of 5"
+    },
+    "features": [
+      "Feng Shui / Vaastu Compliant",
+      "Maintenance Staff"
+    ]
+  },
+  {
+    "meta": {
+      "location": "in Ansal Sushant Lok Plots, Sushant Lok Phase 1, Gurgaon, Haryana",
+      "builtUpArea": "(349.5 sq.m.)",
+      "price": "10.25 Crore",
+      "address": "(349.5 sq.m.)",
+      "facing": "West",
+      "overlooking": "Pool,Club,Others,Main Road"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/18759/3/375183568M-1716620875384.jpg",
+      "https://img.youtube.com/vi/yzyLzcRw0TU/hqdefault.jpg",
+      "https://static.99acres.com/universalapp/img/muteIcon.png"
+    ],
+    "ratings": {
+      "safety": "4.3 out of 5",
+      "connectivity": "4.4 out of 5",
+      "environment": "4.3 out of 5",
+      "lifestyle": "4.4 out of 5"
+    },
+    "features": [
+      "Feng Shui / Vaastu Compliant",
+      "Maintenance Staff",
+      "Rain Water Harvesting"
+    ]
+  },
+  {
+    "meta": {
+      "location": "in Ansal Sushant Lok Plots, Sushant Lok Phase 1, Gurgaon, Haryana",
+      "builtUpArea": "(225.75 sq.m.)",
+      "price": "9.8 Crore",
+      "address": "(225.75 sq.m.)",
+      "facing": "East",
+      "overlooking": "Main Road,Park/Garden"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/25200/4/504004551M-1720703525201.jpg",
+      "https://imagecdn.99acres.com/media1/25200/4/504004559M-1720703521546.jpg",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp"
+    ],
+    "ratings": {
+      "safety": "4.3 out of 5",
+      "connectivity": "4.4 out of 5",
+      "environment": "4.3 out of 5",
+      "lifestyle": "4.4 out of 5"
+    },
+    "features": [
+      "Feng Shui / Vaastu Compliant",
+      "Maintenance Staff",
+      "Water Storage",
+      "Rain Water Harvesting"
+    ]
+  },
+  {
+    "meta": {
+      "location": "in Ansal Sushant Lok Plots, Sushant Lok Phase 1, Gurgaon, Haryana",
+      "builtUpArea": "(809.37 sq.m.)",
+      "price": "29.75 Crore",
+      "address": "(809.37 sq.m.)",
+      "facing": "East",
+      "overlooking": "Main Road,Others"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/25193/9/503869795M-1720682178643.jpg",
+      "https://imagecdn.99acres.com/media1/25193/9/503869791M-1720682184875.jpg",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp"
+    ],
+    "ratings": {
+      "safety": "4.3 out of 5",
+      "connectivity": "4.4 out of 5",
+      "environment": "4.3 out of 5",
+      "lifestyle": "4.4 out of 5"
+    },
+    "features": [
+      "Feng Shui / Vaastu Compliant",
+      "Maintenance Staff",
+      "Water Storage",
+      "Rain Water Harvesting"
+    ]
+  },
+  {
+    "meta": {
+      "location": "in SS The Leaf, Sector 85 Gurgaon, Gurgaon, Haryana",
+      "builtUpArea": "(83.61 sq.m.)",
+      "areaUnit": "2 Bathrooms",
+      "bedrooms": "2 Bedrooms",
+      "bathrooms": "2 Bathrooms",
+      "balconies": "No Balcony",
+      "price": "1.15 Crore",
+      "address": "(83.61 sq.m.)",
+      "floorNumber": "10th   of 26 Floors",
+      "totalFloors": "10th   of 26 Floors",
+      "possessionDate": "0 to 1 Year Old"
+    },
+    "images": [
+      "https://img.youtube.com/vi/MR6BPNUViYQ/hqdefault.jpg"
+    ],
+    "ratings": {
+      "amenities": "3.8 out of 5",
+      "connectivity": "4.1 out of 5",
+      "construction": "3.7 out of 5",
+      "green area": "4 out of 5",
+      "management": "3.8 out of 5"
+    },
+    "features": []
+  },
+  {
+    "meta": {
+      "location": "in Ansal Sushant Lok Plots, Sushant Lok Phase 1, Gurgaon, Haryana",
+      "builtUpArea": "(290.97 sq.m.)",
+      "price": "12 Crore",
+      "address": "(290.97 sq.m.)",
+      "facing": "West",
+      "overlooking": "Park/Garden"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/24973/13/499473373M-1718878027392.jpg",
+      "https://imagecdn.99acres.com/media1/24973/13/499473375M-1718878027788.jpg"
+    ],
+    "ratings": {
+      "safety": "4.3 out of 5",
+      "connectivity": "4.4 out of 5",
+      "environment": "4.3 out of 5",
+      "lifestyle": "4.4 out of 5"
+    },
+    "features": [
+      "Feng Shui / Vaastu Compliant",
+      "Maintenance Staff",
+      "Water Storage",
+      "Rain Water Harvesting"
+    ]
+  },
+  {
+    "meta": {
+      "location": "in Ansal Sushant Lok Plots, Sushant Lok Phase 1, Gurgaon, Haryana",
+      "builtUpArea": "(419.74 sq.m.)",
+      "price": "13.9 Crore",
+      "address": "(419.74 sq.m.)",
+      "facing": "East",
+      "overlooking": "Park/Garden,Others"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/24741/16/494836946M-1716891781088.jpg",
+      "https://imagecdn.99acres.com/media1/24741/16/494836952M-1716891781894.jpg",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp"
+    ],
+    "ratings": {
+      "safety": "4.3 out of 5",
+      "connectivity": "4.4 out of 5",
+      "environment": "4.3 out of 5",
+      "lifestyle": "4.4 out of 5"
+    },
+    "features": [
+      "Feng Shui / Vaastu Compliant",
+      "Maintenance Staff",
+      "Water Storage",
+      "Rain Water Harvesting"
+    ]
+  },
+  {
+    "meta": {
+      "location": "in Ansal, Block C, Sushant Lok Phase 1, Gurgaon, Haryana",
+      "builtUpArea": "(179.77 sq.m.)",
+      "price": "7 Crore",
+      "address": "(179.77 sq.m.)",
+      "facing": "North-West",
+      "overlooking": "Park/Garden,Main Road,Others"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/24970/7/499407299M-1718867033571.jpg",
+      "https://img.youtube.com/vi/Lg3nsps5UjU/hqdefault.jpg",
+      "https://static.99acres.com/universalapp/img/muteIcon.png"
+    ],
+    "ratings": {},
+    "features": [
+      "Feng Shui / Vaastu Compliant",
+      "Maintenance Staff",
+      "Water Storage",
+      "Rain Water Harvesting"
+    ]
+  },
+  {
+    "meta": {
+      "location": "in Olive, B Block Sushant Lok Phase 1, Gurgaon, Haryana",
+      "builtUpArea": "(179.77 sq.m.)",
+      "areaUnit": "+ Govt Charges & Tax",
+      "price": "6.5 Crore",
+      "address": "(179.77 sq.m.)",
+      "facing": "North-West",
+      "overlooking": "Park/Garden,Club,Main Road,Pool,Others"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/24994/5/499885807M-1719046932551.jpg",
+      "https://img.youtube.com/vi/0jYiat2jPjE/hqdefault.jpg",
+      "https://static.99acres.com/universalapp/img/muteIcon.png"
+    ],
+    "ratings": {
+      "safety": "3.7 out of 5",
+      "connectivity": "3.7 out of 5",
+      "environment": "3.9 out of 5",
+      "lifestyle": "4 out of 5"
+    },
+    "features": [
+      "Feng Shui / Vaastu Compliant",
+      "Maintenance Staff",
+      "Water Storage",
+      "Rain Water Harvesting"
+    ]
+  },
+  {
+    "meta": {
+      "location": "in Ansal Sushant Lok Plots, Sushant Lok Phase 1, Gurgaon, Haryana",
+      "builtUpArea": "(250.84 sq.m.)",
+      "price": "9 Crore",
+      "address": "(250.84 sq.m.)",
+      "facing": "East",
+      "overlooking": "Park/Garden,Club,Main Road,Others"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/22101/8/442028996M-1718173991250.jpg",
+      "https://img.youtube.com/vi/gupunELWxMk/hqdefault.jpg",
+      "https://static.99acres.com/universalapp/img/muteIcon.png"
+    ],
+    "ratings": {
+      "safety": "4.3 out of 5",
+      "connectivity": "4.4 out of 5",
+      "environment": "4.3 out of 5",
+      "lifestyle": "4.4 out of 5"
+    },
+    "features": [
+      "Feng Shui / Vaastu Compliant",
+      "Maintenance Staff",
+      "Water Storage"
+    ]
+  }
+]

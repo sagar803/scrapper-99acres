@@ -1,0 +1,666 @@
+[
+  {
+    "meta": {
+      "location": "in Unitech South City 2, Sector 50 Gurgaon, Gurgaon, Haryana",
+      "builtUpArea": "(46.45 sq.m.)",
+      "price": "9 Crore",
+      "address": "(46.45 sq.m.)",
+      "facing": "East",
+      "overlooking": "Park/Garden,Club,Main Road"
+    },
+    "images": [
+      "https://img.youtube.com/vi/Ri8xzlKHNrA/hqdefault.jpg",
+      "https://newprojects.99acres.com/projects/unitech/southcityii/images/yjceca42_med.jpg",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp"
+    ],
+    "ratings": {
+      "safety": "4 out of 5",
+      "connectivity": "4.2 out of 5",
+      "environment": "4.2 out of 5",
+      "lifestyle": "4.3 out of 5"
+    },
+    "features": [
+      "Maintenance Staff",
+      "Water Storage"
+    ]
+  },
+  {
+    "meta": {
+      "location": "in Unitech South City 2, Sector 50 Gurgaon, Gurgaon, Haryana",
+      "builtUpArea": "(33.45 sq.m.)",
+      "price": "7 Crore",
+      "address": "(33.45 sq.m.)",
+      "facing": "East",
+      "overlooking": "Park/Garden,Main Road"
+    },
+    "images": [
+      "https://img.youtube.com/vi/Ri8xzlKHNrA/hqdefault.jpg",
+      "https://newprojects.99acres.com/projects/unitech/southcityii/images/yjceca42_med.jpg",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp"
+    ],
+    "ratings": {
+      "safety": "4 out of 5",
+      "connectivity": "4.2 out of 5",
+      "environment": "4.2 out of 5",
+      "lifestyle": "4.3 out of 5"
+    },
+    "features": [
+      "Maintenance Staff",
+      "Water Storage"
+    ]
+  },
+  {
+    "meta": {
+      "location": "in Unitech South City 2, Sector 50 Gurgaon, Gurgaon, Haryana",
+      "builtUpArea": "(22.3 sq.m.)",
+      "price": "5.15 Crore",
+      "address": "(22.3 sq.m.)",
+      "facing": "North-East",
+      "overlooking": "Main Road,Park/Garden"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/24712/17/494257634M-1716702961306.jpg",
+      "https://imagecdn.99acres.com/media1/25204/11/504091951M-1720766138855.jpg"
+    ],
+    "ratings": {
+      "safety": "4 out of 5",
+      "connectivity": "4.2 out of 5",
+      "environment": "4.2 out of 5",
+      "lifestyle": "4.3 out of 5"
+    },
+    "features": [
+      "Maintenance Staff",
+      "Water Storage"
+    ]
+  },
+  {
+    "meta": {
+      "location": "in Unitech South City 2, Sector 50 Gurgaon, Gurgaon, Haryana",
+      "builtUpArea": "(46.45 sq.m.)",
+      "price": "8.75 Crore",
+      "address": "(46.45 sq.m.)",
+      "facing": "East",
+      "overlooking": "Park/Garden,Main Road"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/24901/17/498037587M-1718265425900.jpg",
+      "https://imagecdn.99acres.com/media1/24901/17/498037597M-1718265427871.jpg",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp"
+    ],
+    "ratings": {
+      "safety": "4 out of 5",
+      "connectivity": "4.2 out of 5",
+      "environment": "4.2 out of 5",
+      "lifestyle": "4.3 out of 5"
+    },
+    "features": [
+      "Maintenance Staff",
+      "Water Storage"
+    ]
+  },
+  {
+    "meta": {
+      "location": "in Unitech South City 2, Sector 50 Gurgaon, Gurgaon, Haryana",
+      "builtUpArea": "(299.33 sq.m.)",
+      "price": "7 Crore",
+      "address": "(299.33 sq.m.)",
+      "facing": "North",
+      "overlooking": "Park/Garden,Main Road"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/24901/15/498035935M-1718265168130.jpg",
+      "https://imagecdn.99acres.com/media1/24901/15/498035877M-1718265149154.jpg",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp"
+    ],
+    "ratings": {
+      "safety": "4 out of 5",
+      "connectivity": "4.2 out of 5",
+      "environment": "4.2 out of 5",
+      "lifestyle": "4.3 out of 5"
+    },
+    "features": [
+      "Maintenance Staff"
+    ]
+  },
+  {
+    "meta": {
+      "location": "in SS The Leaf, Sector 85 Gurgaon, Gurgaon, Haryana",
+      "builtUpArea": "(83.61 sq.m.)",
+      "areaUnit": "2 Bathrooms",
+      "bedrooms": "2 Bedrooms",
+      "bathrooms": "2 Bathrooms",
+      "balconies": "No Balcony",
+      "price": "1.15 Crore",
+      "address": "(83.61 sq.m.)",
+      "floorNumber": "10th   of 26 Floors",
+      "totalFloors": "10th   of 26 Floors",
+      "possessionDate": "0 to 1 Year Old"
+    },
+    "images": [
+      "https://img.youtube.com/vi/MR6BPNUViYQ/hqdefault.jpg"
+    ],
+    "ratings": {
+      "amenities": "3.8 out of 5",
+      "connectivity": "4.1 out of 5",
+      "construction": "3.7 out of 5",
+      "green area": "4 out of 5",
+      "management": "3.8 out of 5"
+    },
+    "features": []
+  },
+  {
+    "meta": {
+      "location": "in Unitech South City 2, Sector 50 Gurgaon, Gurgaon, Haryana",
+      "builtUpArea": "(200.67 sq.m.)",
+      "price": "5.04 Crore",
+      "address": "(200.67 sq.m.)",
+      "facing": "East",
+      "overlooking": "Main Road"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/24901/12/498032905M-1718264701442.jpg",
+      "https://imagecdn.99acres.com/media1/24901/12/498032925M-1718264701251.jpg",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp"
+    ],
+    "ratings": {
+      "safety": "4 out of 5",
+      "connectivity": "4.2 out of 5",
+      "environment": "4.2 out of 5",
+      "lifestyle": "4.3 out of 5"
+    },
+    "features": [
+      "Maintenance Staff",
+      "Water Storage"
+    ]
+  },
+  {
+    "meta": {
+      "location": "in Unitech South City 2, Sector 50 Gurgaon, Gurgaon, Haryana",
+      "builtUpArea": "(301.01 sq.m.)",
+      "areaUnit": "4 Bathrooms",
+      "bedrooms": "4 Bedrooms",
+      "bathrooms": "4 Bathrooms",
+      "balconies": "2 Balconies",
+      "additionalRooms": "Pooja Room",
+      "price": "3 Crore",
+      "address": "(301.01 sq.m.)",
+      "floorNumber": "1st   of 4 Floors",
+      "totalFloors": "1st   of 4 Floors",
+      "facing": "North-East",
+      "overlooking": "Main Road,Park/Garden",
+      "possessionDate": "0 to 1 Year Old"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/24898/6/497966897M-1718250301950.jpg",
+      "https://imagecdn.99acres.com/media1/24898/6/497966889M-1718250301438.jpg",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp"
+    ],
+    "ratings": {
+      "safety": "4 out of 5",
+      "connectivity": "4.2 out of 5",
+      "environment": "4.2 out of 5",
+      "lifestyle": "4.3 out of 5"
+    },
+    "furnishingDetails": "Semifurnished\nFurnishing Details\n4 Wardrobe\n4 Fan\n3 Geyser\n8 Light\n1 Modular Kitchen\n1 Chimney\nNo AC\nNo Bed\nNo Curtains\nNo Dining Table\nNo Exhaust Fan\nNo Microwave\nNo Fridge\nNo Sofa\nNo Stove\nNo TV\nNo Washing Machine\nNo Water Purifier",
+    "features": [
+      "4 Wardrobe",
+      "4 Fan",
+      "3 Geyser",
+      "8 Light",
+      "1 Modular Kitchen",
+      "1 Chimney",
+      "No AC",
+      "No Bed",
+      "No Curtains",
+      "No Dining Table",
+      "No Exhaust Fan",
+      "No Microwave",
+      "No Fridge",
+      "No Sofa",
+      "No Stove",
+      "No TV",
+      "No Washing Machine",
+      "No Water Purifier",
+      "Feng Shui / Vaastu Compliant",
+      "Maintenance Staff",
+      "False Ceiling Lighting",
+      "Security Personnel",
+      "Low Density Society"
+    ]
+  },
+  {
+    "meta": {
+      "location": "in Unitech South City 2, Sector 50 Gurgaon, Gurgaon, Haryana",
+      "builtUpArea": "(229.94 sq.m.)",
+      "areaUnit": "4 Bathrooms",
+      "bedrooms": "4 Bedrooms",
+      "bathrooms": "4 Bathrooms",
+      "balconies": "2 Balconies",
+      "additionalRooms": "Pooja Room",
+      "price": "2.55 Crore",
+      "address": "(229.94 sq.m.)",
+      "floorNumber": "1st   of 4 Floors",
+      "totalFloors": "1st   of 4 Floors",
+      "facing": "North-East",
+      "possessionDate": "0 to 1 Year Old"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/24898/6/497966215M-1718249821177.jpg",
+      "https://imagecdn.99acres.com/media1/24898/6/497966165M-1718249760896.jpg",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp"
+    ],
+    "ratings": {
+      "safety": "4 out of 5",
+      "connectivity": "4.2 out of 5",
+      "environment": "4.2 out of 5",
+      "lifestyle": "4.3 out of 5"
+    },
+    "furnishingDetails": "Semifurnished\nFurnishing Details\n3 Wardrobe\n5 Fan\n4 Geyser\n10 Light\n1 Chimney\n1 Modular Kitchen\nNo AC\nNo Bed\nNo Curtains\nNo Dining Table\nNo Exhaust Fan\nNo Microwave\nNo Fridge\nNo Sofa\nNo Stove\nNo TV\nNo Washing Machine\nNo Water Purifier",
+    "features": [
+      "3 Wardrobe",
+      "5 Fan",
+      "4 Geyser",
+      "10 Light",
+      "1 Chimney",
+      "1 Modular Kitchen",
+      "No AC",
+      "No Bed",
+      "No Curtains",
+      "No Dining Table",
+      "No Exhaust Fan",
+      "No Microwave",
+      "No Fridge",
+      "No Sofa",
+      "No Stove",
+      "No TV",
+      "No Washing Machine",
+      "No Water Purifier",
+      "Maintenance Staff",
+      "False Ceiling Lighting",
+      "Security Personnel",
+      "Low Density Society",
+      "Waste Disposal"
+    ]
+  },
+  {
+    "meta": {
+      "location": "in Unitech South City 2, Sector 50 Gurgaon, Gurgaon, Haryana",
+      "builtUpArea": "(195.1 sq.m.)",
+      "areaUnit": "4 Bathrooms",
+      "bedrooms": "4 Bedrooms",
+      "bathrooms": "4 Bathrooms",
+      "balconies": "2 Balconies",
+      "additionalRooms": "Pooja Room",
+      "price": "2.75 Crore",
+      "address": "(195.1 sq.m.)",
+      "floorNumber": "1st   of 4 Floors",
+      "totalFloors": "1st   of 4 Floors",
+      "facing": "East",
+      "overlooking": "Park/Garden,Main Road",
+      "possessionDate": "0 to 1 Year Old"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/24898/5/497965277M-1718248981399.jpg",
+      "https://imagecdn.99acres.com/media1/24898/5/497965287M-1718248981416.jpg",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp"
+    ],
+    "ratings": {
+      "safety": "4 out of 5",
+      "connectivity": "4.2 out of 5",
+      "environment": "4.2 out of 5",
+      "lifestyle": "4.3 out of 5"
+    },
+    "furnishingDetails": "Semifurnished\nFurnishing Details\n3 Wardrobe\n4 Fan\n4 Geyser\n6 Light\n1 Chimney\n1 Modular Kitchen\nNo AC\nNo Bed\nNo Curtains\nNo Dining Table\nNo Exhaust Fan\nNo Microwave\nNo Fridge\nNo Sofa\nNo Stove\nNo TV\nNo Washing Machine\nNo Water Purifier",
+    "features": [
+      "3 Wardrobe",
+      "4 Fan",
+      "4 Geyser",
+      "6 Light",
+      "1 Chimney",
+      "1 Modular Kitchen",
+      "No AC",
+      "No Bed",
+      "No Curtains",
+      "No Dining Table",
+      "No Exhaust Fan",
+      "No Microwave",
+      "No Fridge",
+      "No Sofa",
+      "No Stove",
+      "No TV",
+      "No Washing Machine",
+      "No Water Purifier",
+      "Maintenance Staff",
+      "False Ceiling Lighting",
+      "Water Storage",
+      "Security Personnel",
+      "Low Density Society"
+    ]
+  },
+  {
+    "meta": {
+      "location": "in Unitech South City 2, Sector 50 Gurgaon, Gurgaon, Haryana",
+      "builtUpArea": "(200.67 sq.m.)",
+      "areaUnit": "3 Bathrooms",
+      "bedrooms": "3 Bedrooms",
+      "bathrooms": "3 Bathrooms",
+      "balconies": "2 Balconies",
+      "additionalRooms": "Pooja Room",
+      "price": "2.24 Crore",
+      "address": "(200.67 sq.m.)",
+      "floorNumber": "2nd   of 4 Floors",
+      "totalFloors": "2nd   of 4 Floors",
+      "facing": "North-East",
+      "overlooking": "Main Road,Park/Garden",
+      "possessionDate": "0 to 1 Year Old"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/24898/4/497964771M-1718248621447.jpg",
+      "https://imagecdn.99acres.com/media1/24898/4/497964845M-1718248621371.jpg",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp"
+    ],
+    "ratings": {
+      "safety": "4 out of 5",
+      "connectivity": "4.2 out of 5",
+      "environment": "4.2 out of 5",
+      "lifestyle": "4.3 out of 5"
+    },
+    "furnishingDetails": "Semifurnished\nFurnishing Details\n3 Wardrobe\n7 Fan\n4 Geyser\n10 Light\n1 Chimney\n1 Modular Kitchen\nNo AC\nNo Bed\nNo Curtains\nNo Dining Table\nNo Exhaust Fan\nNo Microwave\nNo Fridge\nNo Sofa\nNo Stove\nNo TV\nNo Washing Machine\nNo Water Purifier",
+    "features": [
+      "3 Wardrobe",
+      "7 Fan",
+      "4 Geyser",
+      "10 Light",
+      "1 Chimney",
+      "1 Modular Kitchen",
+      "No AC",
+      "No Bed",
+      "No Curtains",
+      "No Dining Table",
+      "No Exhaust Fan",
+      "No Microwave",
+      "No Fridge",
+      "No Sofa",
+      "No Stove",
+      "No TV",
+      "No Washing Machine",
+      "No Water Purifier",
+      "Maintenance Staff",
+      "False Ceiling Lighting",
+      "Water Storage",
+      "Security Personnel",
+      "Low Density Society",
+      "Fitness Centre / GYM"
+    ]
+  },
+  {
+    "meta": {
+      "location": "in Unitech South City 2, Sector 50 Gurgaon, Gurgaon, Haryana",
+      "builtUpArea": "(150.5 sq.m.)",
+      "areaUnit": "3 Bathrooms",
+      "bedrooms": "3 Bedrooms",
+      "bathrooms": "3 Bathrooms",
+      "balconies": "2 Balconies",
+      "additionalRooms": "Pooja Room",
+      "price": "1.9 Crore",
+      "address": "(150.5 sq.m.)",
+      "floorNumber": "2nd   of 4 Floors",
+      "totalFloors": "2nd   of 4 Floors",
+      "facing": "North",
+      "overlooking": "Park/Garden,Main Road",
+      "possessionDate": "0 to 1 Year Old"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/24897/19/497959481M-1718236573150.jpg",
+      "https://imagecdn.99acres.com/media1/24897/19/497959489M-1718236591751.jpg",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp"
+    ],
+    "ratings": {
+      "safety": "4 out of 5",
+      "connectivity": "4.2 out of 5",
+      "environment": "4.2 out of 5",
+      "lifestyle": "4.3 out of 5"
+    },
+    "furnishingDetails": "Semifurnished\nFurnishing Details\n3 Wardrobe\n6 Fan\n4 Geyser\n10 Light\n1 Modular Kitchen\n1 Chimney\nNo AC\nNo Bed\nNo Curtains\nNo Dining Table\nNo Exhaust Fan\nNo Microwave\nNo Fridge\nNo Sofa\nNo Stove\nNo TV\nNo Washing Machine\nNo Water Purifier",
+    "features": [
+      "3 Wardrobe",
+      "6 Fan",
+      "4 Geyser",
+      "10 Light",
+      "1 Modular Kitchen",
+      "1 Chimney",
+      "No AC",
+      "No Bed",
+      "No Curtains",
+      "No Dining Table",
+      "No Exhaust Fan",
+      "No Microwave",
+      "No Fridge",
+      "No Sofa",
+      "No Stove",
+      "No TV",
+      "No Washing Machine",
+      "No Water Purifier",
+      "False Ceiling Lighting",
+      "Water Storage",
+      "Park",
+      "Visitor Parking",
+      "Security Personnel",
+      "Low Density Society",
+      "Waste Disposal"
+    ]
+  },
+  {
+    "meta": {
+      "location": "in Unitech South City 2, Sector 50 Gurgaon, Gurgaon, Haryana",
+      "builtUpArea": "(468.23 sq.m.)",
+      "areaUnit": "5 Bathrooms",
+      "bedrooms": "4 Bedrooms",
+      "bathrooms": "5 Bathrooms",
+      "balconies": "2 Balconies",
+      "additionalRooms": "Pooja Room,Store Room,Study Room,Servant Room",
+      "price": "4.8 Crore",
+      "address": "(468.23 sq.m.)",
+      "floorNumber": "3rd   of 4 Floors",
+      "totalFloors": "3rd   of 4 Floors",
+      "facing": "North",
+      "overlooking": "Park/Garden,Others,Main Road",
+      "possessionDate": "0 to 1 Year Old"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/24972/0/499440183M-1718872502394.jpg",
+      "https://imagecdn.99acres.com/media1/24972/0/499440203M-1718872503268.jpg",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp"
+    ],
+    "ratings": {
+      "safety": "4 out of 5",
+      "connectivity": "4.2 out of 5",
+      "environment": "4.2 out of 5",
+      "lifestyle": "4.3 out of 5"
+    },
+    "furnishingDetails": "Semifurnished\nFurnishing Details\n1 Water Purifier\n9 Fan\n1 Exhaust Fan\n5 Geyser\n1 Stove\n34 Light\n7 AC\n1 Chimney\n1 Modular Kitchen\n5 Wardrobe\n1 Microwave\nNo Bed\nNo Curtains\nNo Dining Table\nNo Fridge\nNo Sofa\nNo TV\nNo Washing Machine",
+    "features": [
+      "1 Water Purifier",
+      "9 Fan",
+      "1 Exhaust Fan",
+      "5 Geyser",
+      "1 Stove",
+      "34 Light",
+      "7 AC",
+      "1 Chimney",
+      "1 Modular Kitchen",
+      "5 Wardrobe",
+      "1 Microwave",
+      "No Bed",
+      "No Curtains",
+      "No Dining Table",
+      "No Fridge",
+      "No Sofa",
+      "No TV",
+      "No Washing Machine",
+      "Feng Shui / Vaastu Compliant",
+      "Intercom Facility",
+      "Water purifier",
+      "Lift(s)",
+      "High Ceiling Height",
+      "Maintenance Staff",
+      "False Ceiling Lighting",
+      "Water Storage",
+      "Separate entry for servant room",
+      "No open drainage around",
+      "Piped-gas",
+      "Visitor Parking",
+      "Swimming Pool",
+      "Park",
+      "Security Personnel",
+      "Natural Light",
+      "Airy Rooms",
+      "Spacious Interiors",
+      "Low Density Society",
+      "Fitness Centre / GYM",
+      "Waste Disposal",
+      "Rain Water Harvesting",
+      "Club house / Community Center"
+    ]
+  },
+  {
+    "meta": {
+      "location": "in Unitech South City 2, Sector 50 Gurgaon, Gurgaon, Haryana",
+      "builtUpArea": "(150.5 sq.m.)",
+      "areaUnit": "3 Bathrooms",
+      "bedrooms": "3 Bedrooms",
+      "bathrooms": "3 Bathrooms",
+      "balconies": "2 Balconies",
+      "additionalRooms": "Store Room,Pooja Room,Study Room,Servant Room",
+      "price": "2.4 Crore",
+      "address": "(150.5 sq.m.)",
+      "floorNumber": "2nd   of 3 Floors",
+      "totalFloors": "2nd   of 3 Floors",
+      "facing": "North",
+      "overlooking": "Main Road,Park/Garden,Others",
+      "possessionDate": "0 to 1 Year Old"
+    },
+    "images": [
+      "https://imagecdn.99acres.com/media1/24971/17/499437771M-1718872109523.jpg",
+      "https://imagecdn.99acres.com/media1/24971/17/499437785M-1718872144633.jpg",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp",
+      "https://static.99acres.com/universalapp/img/projectnoimage.webp"
+    ],
+    "ratings": {
+      "safety": "4 out of 5",
+      "connectivity": "4.2 out of 5",
+      "environment": "4.2 out of 5",
+      "lifestyle": "4.3 out of 5"
+    },
+    "furnishingDetails": "Semifurnished\nFurnishing Details\n1 Water Purifier\n8 Fan\n1 Exhaust Fan\n3 Geyser\n1 Stove\n35 Light\n5 AC\n1 Chimney\n1 Modular Kitchen\n3 Wardrobe\n1 Microwave\nNo Bed\nNo Curtains\nNo Dining Table\nNo Fridge\nNo Sofa\nNo TV\nNo Washing Machine",
+    "features": [
+      "1 Water Purifier",
+      "8 Fan",
+      "1 Exhaust Fan",
+      "3 Geyser",
+      "1 Stove",
+      "35 Light",
+      "5 AC",
+      "1 Chimney",
+      "1 Modular Kitchen",
+      "3 Wardrobe",
+      "1 Microwave",
+      "No Bed",
+      "No Curtains",
+      "No Dining Table",
+      "No Fridge",
+      "No Sofa",
+      "No TV",
+      "No Washing Machine",
+      "Feng Shui / Vaastu Compliant",
+      "Intercom Facility",
+      "Water purifier",
+      "Lift(s)",
+      "High Ceiling Height",
+      "Maintenance Staff",
+      "False Ceiling Lighting",
+      "Water Storage",
+      "Separate entry for servant room",
+      "No open drainage around",
+      "Piped-gas",
+      "Visitor Parking",
+      "Swimming Pool",
+      "Park",
+      "Security Personnel",
+      "Natural Light",
+      "Airy Rooms",
+      "Spacious Interiors",
+      "Low Density Society",
+      "Fitness Centre / GYM",
+      "Waste Disposal",
+      "Rain Water Harvesting",
+      "Club house / Community Center"
+    ]
+  }
+]
